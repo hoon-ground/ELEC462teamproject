@@ -35,5 +35,5 @@
 <br>
 <code>#IMPLEMENTATION ENVIRONMENT</code>
 <br>
-1. Ubuntu 18.04 LTS (Ubuntu 20.04 LTS)
+1. Ubuntu 18.04 LTS (also available in Ubuntu 20.04 LTS)
 2. Localhost : 127.0.0.1 , PORT : 8080
