@@ -40,6 +40,7 @@
 3. Language : C
 
 **[NOTICE]**
+<br>
 가끔 server 내 handle_clnt thread에서, night phase에 특정 유저의 socket이 block되어 read()에서 읽어들일 수 없는 현상이 있습니다. <br>
 night phase에만 발생하고, 모종의 이유로 socket stream이 block되어 client 입력이 stream에 쌓인 채 전송되지 못한 다는 것은 알 수 있었으나, 이를 해결할 수 없었습니다. <br>
 실행환경에 따라 정상작동하는 경우도 있으며, vmware ubuntu 64bit - 18.04 LTS(also 20.04 LTS)에서는 정상작동하는 것을 확인했습니다.
