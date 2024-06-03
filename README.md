@@ -1,4 +1,6 @@
 # ELEC462teamproject
+<code>#Demo Video</code><br>
+http://www.youtube.com/watch?v=Lvuhqi0HHvs
 
 <code>#GAME RULE</code><br>
 
@@ -10,8 +12,8 @@
 (해커가 서로를 지목하여 무력화시키려고 할 경우 먼저 입장한 플레이어가 우선권을 가진다.)
 2. WHITEHACKER : 1명의 화이트해커는 매일 밤 플레이어들의 직업을 알아낼 수 있다.
 3. V3 : 1명의 V3는 매일 밤 해커들의 공격으로부터 플레이어들을 지켜줄 수 있다. 물론 자신 스스로도 지킬 수 있다.
-4. USER : 능력은 없지만 V3,WHITEHACKER와 합심하여 해커를 찾아 투표로 처형시켜야 한다.
-
+4. USER : 능력은 없지만 V3,WHITEHACKER와 합심하여 해커를 찾아 투표로 처형시켜야 한다.<br>
++) 투표로 처형당한 플레이어의 직업은 전체에게 "공개"된다.
 <br>
 <code>#HOW TO USE</code>
 <br>
